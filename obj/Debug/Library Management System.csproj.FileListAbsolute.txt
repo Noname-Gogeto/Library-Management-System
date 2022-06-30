@@ -1,0 +1,33 @@
+E:\Project\C#\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Project\C#\Library Management System\bin\Debug\Library Management System.exe
+E:\Project\C#\Library Management System\bin\Debug\Library Management System.pdb
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.csproj.SuggestedBindingRedirects.cache
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmLogin.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.exe
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.pdb
+E:\Project\C#\Library Management System\bin\Debug\CircularProgressBar.dll
+E:\Project\C#\Library Management System\bin\Debug\WinFormAnimation.dll
+E:\Project\C#\Library Management System\bin\Debug\CircularProgressBar.xml
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.csproj.CopyComplete
+E:\Project\C#\Library Management System\bin\Debug\Windows.Forms.HintTextBox.dll
+E:\Project\C#\Library Management System\bin\Debug\Windows.Forms.HintTextBox.pdb
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmMain.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmDashBoard.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmAddStudent.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmAddBooks.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmViewBooks.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmViewStudents.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmIssueBooks.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmReturnBooks.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmBookDetail.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmBookSearch.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmStudentDashboard.resources
+E:\Project\C#\Library Management System\obj\Debug\Library_Management_System.FrmUserLogin.resources
+E:\Project\C#\Library Management System\bin\Debug\Library Management System.exe.manifest
+E:\Project\C#\Library Management System\bin\Debug\Library Management System.application
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.exe.manifest
+E:\Project\C#\Library Management System\obj\Debug\Library Management System.application
